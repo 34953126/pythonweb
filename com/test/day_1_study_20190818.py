@@ -1,4 +1,4 @@
-password_list = ['*#*#','12345']
+12345password_list = ['*#*#','12345']
 def account_login():
     password = input('Password:')
     password_correct = password = password_list[-1]
@@ -15,3 +15,8 @@ def account_login():
         account_login()
 
 account_login()
+
+
+#循环
+for  ever_letter in 'hello world!':
+print(ever_letter)
