@@ -5,7 +5,6 @@
 # 游戏开发者
 # 自动化测试
 
-
 #变量与字符串
 str="ybb"
 print(str)
@@ -23,4 +22,6 @@ print(i)
 def getNum(num ):
     return num
 print(getNum(9))
+
+
 
