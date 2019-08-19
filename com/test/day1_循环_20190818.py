@@ -5,7 +5,7 @@ for  ever_letter in 'hello world!' :
 for num in range(1,11):#不包含11
     print(str(num)+' + 1 =',num +1)
 
-
+#案例一
 songslist = ['Holy Diver','Thunderstruck','Reble Reble']
 for song in songslist:
     if song == 'Holy Diver':
