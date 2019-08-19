@@ -1,4 +1,3 @@
-
 #循环
 for  ever_letter in 'hello world!' :
     print(ever_letter)

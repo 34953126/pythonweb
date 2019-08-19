@@ -12,7 +12,7 @@ def getNum(num ):
     return num
 print(getNum(9))
 
-# 字符串相乘
+#字符串相乘
 words = 'word' * 3
 print(words)
 
