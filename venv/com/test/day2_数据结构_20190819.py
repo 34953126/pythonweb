@@ -39,6 +39,7 @@ t0 = time.clock()
 b = [i for i in range(1,20000)]
 print(time.clock()-t0,"seconds process time ")
 
+
 #在Python3.7中使用 time.clock()报警告
 #Python time模块之clock在Python3.3废弃，在Python3.8中将被移除
 #用以浮点数计算的秒数返回当前的CPU时间，用来衡量不同程序的耗时，比time.time()更有用
