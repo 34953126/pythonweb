@@ -20,6 +20,7 @@ class myThread (threading.Thread):
         print("退出线程："+self.name)
 
 
+
 def print_time(threadName,delay,counter):
     while counter:
         if exitFlag:
